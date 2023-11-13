@@ -13,8 +13,6 @@ Automated testing for an existing project made by @noroff.
 - [Running Tests Locally](#running-tests-locally)
 - [Setting Up Continuous Integration](#setting-up-continuous-integration)
 - [Formatting and linting](#formatting-and-linting)
-- [Environment Variables](#environment-variables)
-- [Test Results](#test-results)
 
 ## Installation
 
