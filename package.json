@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "test-unit": "jest",
-    "test-e2e": "cypress open"
+    "test-e2e": "cypress run --headless"
   },
   "keywords": [],
   "author": "Noroff",
