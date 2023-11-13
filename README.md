@@ -72,3 +72,24 @@ npm run format
 ```bash
 npm run lint
 ```
+
+## Test Results
+
+**Unit Tests**
+
+```bash
+login.test.js - PASSED
+logout.test.js - PASSED
+
+2/2 PASSED
+```
+
+**E2E Tests**
+
+```bash
+errors.cy.js - PASSED
+form.cy.js - FAILED ("Is supposed to fail")
+login.cy.js - PASSED
+
+2/3 PASSED
+```
